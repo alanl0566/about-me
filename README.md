@@ -2,31 +2,29 @@
 ## Name  Alan Li
 
 ### My 2021 Schedule
-<ul>
-    <li>1pd: Writing </li>
-    <li>2pd: Chemistry </li>
-    <li>3pd: Ela </li>
-    <li>4pd: SEP </li>
-    <li>5pd: Lunch </li>
-    <li>6pd: Spanish </li>
-    <li>7pd: Algebra 2 </li>
-    <li>8pd: Global History </li> 
-    <li>9pd: Yoga </li> 
-</ul>
+* 1pd: Writing 
+* 2pd: Chemistry
+* 3pd: Ela 
+* 4pd: SEP
+* 5pd: Lunch
+* 6pd: Spanish
+* 7pd: Algebra 2
+* 8pd: Global History
+* 9pd: Yoga
 
 ### Hobbies
 
-<ul>
+<ol>
     <li> Play Basktball </li>
     <li> Watch Youtube </li>
     <li> Read Comic book </li>
     <li> Go outside </li>
     <li> Play game </li>
     <li> go library </li>
-<ul>
+</ol>
 
 ### School 
+    
+* High School of Telecommunication Arts and Technology
 
-   * High School of Telecommunication Arts and Technology
-
-
+[https://discord.gg/PbQHkJsR](URL)
