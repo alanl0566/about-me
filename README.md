@@ -21,6 +21,7 @@
     <li> Go outside </li>
     <li> Play game </li>
     <li> go library </li>
+    <li> look around at my discord server </li>
 </ol>
 
 ### School 
