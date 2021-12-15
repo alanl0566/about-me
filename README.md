@@ -1,7 +1,7 @@
 # about-me
+## Name  Alan Li
 
-
-<h2> My2021 Schedule </h2>
+### My 2021 Schedule
 <ul>
     <li>1pd: Writing </li>
     <li>2pd: Chemistry </li>
@@ -14,7 +14,7 @@
     <li>9pd: Yoga </li> 
 </ul>
 
-<h2> Hobbies </h2>
+### Hobbies
 
 <ul>
     <li> Play Basktball </li>
@@ -23,10 +23,10 @@
     <li> Go outside </li>
     <li> Play game </li>
     <li> go library </li>
-</ul>
+<ul>
 
-<h2> school </h2>
-<ul> <li> High School of Telecommunication Arts and Technology </li> </ul>
+### School 
 
-<h2> Name  </h2>
-<ul> <li> Alan Li </li> </ul>
+   * High School of Telecommunication Arts and Technology
+
+
