@@ -10,7 +10,7 @@
 * 6pd: Spanish
 * 7pd: Algebra 2
 * 8pd: Global History
-* 9pd: Yoga
+* 9pd: Advanced Mathematics 
 
 ### Hobbies
 
